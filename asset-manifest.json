@@ -1,34 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.49589aae.css",
-    "main.js": "/static/js/main.fcb65fe5.js",
+    "main.css": "/static/css/main.b2d9c564.css",
+    "main.js": "/static/js/main.c77a8461.js",
     "static/media/devicon.svg?iehcku": "/static/media/devicon.de33ff67547800466a48.svg",
     "static/media/medical-exam-db.png": "/static/media/medical-exam-db.d56d2b4d70fb4372c8a6.png",
     "static/media/devicon.woff?iehcku": "/static/media/devicon.25bdb9cbf8e5f9b4dde9.woff",
     "static/media/devicon.ttf?iehcku": "/static/media/devicon.161b6f3376d6ce5c517d.ttf",
+    "static/media/quickaiply-logo.png": "/static/media/quickaiply-logo.7cf9d5466daedda08f95.png",
     "static/media/profilepic.png": "/static/media/profilepic.2022d5fada3b1f185468.png",
     "static/media/github-ai-logo.png": "/static/media/github-ai-logo.f2ce61abbf0d1e7f9e8e.png",
-    "static/media/cicd-logo.png": "/static/media/cicd-logo.dee4ae58dd0a5da592d2.png",
     "static/media/micro-integration.png": "/static/media/micro-integration.62d172675537b8bc05b1.png",
     "static/media/cockroachdb-logo.png": "/static/media/cockroachdb-logo.52235c6604434b39cd57.png",
-    "static/media/splunk.png": "/static/media/splunk.f96eb0581f375d3af310.png",
     "static/media/twitter-logo.png": "/static/media/twitter-logo.cabdad6380850d7b6f0e.png",
-    "static/media/best-buy-logo.png": "/static/media/best-buy-logo.e7d1db74100cbe0cb5c1.png",
     "static/media/franco-cite-logo.png": "/static/media/franco-cite-logo.c69e1c8536121ba00212.png",
     "static/media/openai-logo.png": "/static/media/openai-logo.b28bfd20ae18cc5991db.png",
     "static/media/nokia-logo.png": "/static/media/nokia-logo.e6c3524b0d4918f1bfed.png",
     "static/media/machine-learning-logo.png": "/static/media/machine-learning-logo.1084c4f93cccbfc7522d.png",
-    "static/media/snowflake-logo.png": "/static/media/snowflake-logo.6696562b7eb25e8ed48d.png",
     "static/media/uottawa-logo.png": "/static/media/uottawa-logo.1b461cc3b4c43506727a.png",
     "static/media/cra-logo.png": "/static/media/cra-logo.25de95570f794ca889dd.png",
     "static/media/quickapply.png": "/static/media/quickapply.31625917d700ca102e70.png",
     "static/media/kubernetes.png": "/static/media/kubernetes.11e817a22061557d0b45.png",
     "index.html": "/index.html",
-    "main.49589aae.css.map": "/static/css/main.49589aae.css.map",
-    "main.fcb65fe5.js.map": "/static/js/main.fcb65fe5.js.map"
+    "main.b2d9c564.css.map": "/static/css/main.b2d9c564.css.map",
+    "main.c77a8461.js.map": "/static/js/main.c77a8461.js.map"
   },
   "entrypoints": [
-    "static/css/main.49589aae.css",
-    "static/js/main.fcb65fe5.js"
+    "static/css/main.b2d9c564.css",
+    "static/js/main.c77a8461.js"
   ]
 }
