@@ -23,16 +23,16 @@ function Skills() {
       category: "Languages",
       icon: FaCode,
       skills: [
-        { name: "TypeScript", iconClass: "devicon-typescript-plain colored" },
         { name: "Python", iconClass: "devicon-python-plain colored" },
         { name: "Java", iconClass: "devicon-java-plain colored" },
         { name: "Go (Golang)", iconClass: "devicon-go-plain colored" },
+        { name: "TypeScript", iconClass: "devicon-typescript-plain colored" },
+        { name: "JavaScript", iconClass: "devicon-javascript-plain colored" },
+        { name: "SQL", iconClass: "devicon-azuresqldatabase-plain colored" },
         { name: "Kotlin", iconClass: "devicon-kotlin-plain colored" },
         { name: "Bash", iconClass: "devicon-bash-plain" },
         { name: "HTML5", iconClass: "devicon-html5-plain colored" },
         { name: "CSS3", iconClass: "devicon-css3-plain colored" },
-        { name: "JavaScript", iconClass: "devicon-javascript-plain colored" },
-        { name: "SQL", iconClass: "devicon-azuresqldatabase-plain colored" },
       ]
     },
     {
