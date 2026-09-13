@@ -80,7 +80,7 @@ function Career() {
       date: "Jan 2023 - Dec 2023",
       type: "Academic",
       highlight: "Algorithms & Systems Instruction",
-      skills: ["Algorithms (CSI3505)", "QA Testing (SEG3503)", "Operating Systems (CSI3131)"],
+      skills: ["Design & Analysis of Algorithms (CSI3505)", "QA Testing (SEG3503)", "Operating Systems (CSI3131)"],
       description: [
         "TA and lab instructor for Design and Analysis of Algorithms (CSI3505), Quality Assurance Testing (SEG 3503), and Operating Systems (CSI 3131)."
       ],

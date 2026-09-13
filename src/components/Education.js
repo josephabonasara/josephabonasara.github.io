@@ -16,10 +16,10 @@ function Education() {
       location: "Ontario, Canada",
       description: [
         "Graduated Summa Cum Laude with a top 9.57 / 10.0 GPA across the Software Engineering program.",
-        "Served as Teaching Assistant & Lab Instructor for CSI3505 (Algorithms), SEG3503 (Software Quality Assurance Testing), and CSI3131 (Operating Systems).",
+        "Served as Teaching Assistant & Lab Instructor for CSI3505 (Design and Analysis of Algorithms), SEG3503 (Software Quality Assurance Testing), and CSI3131 (Operating Systems).",
         "Specialized in distributed systems architecture, event-driven systems, quality assurance pipelines, and artificial intelligence integration."
       ],
-      highlights: ["Summa Cum Laude", "Algorithms TA", "Operating Systems TA", "Quality Assurance TA"]
+      highlights: ["Summa Cum Laude", "Design and Analysis of Algorithms TA", "Operating Systems TA", "Quality Assurance TA"]
     },
     {
       institution: "École secondaire catholique Franco-Cité",
