@@ -73,13 +73,12 @@ function Skills() {
       category: "AI & Automation",
       icon: FaRobot,
       skills: [
-        { name: "Claude (Anthropic)", reactIcon: ClaudeIcon },
+        { name: "Claude & Claude Code", reactIcon: ClaudeIcon },
         { name: "OpenAI", customIcon: openaiLogo },
         { name: "Prompt Engineering", reactIcon: FaRobot },
         { name: "AI Agents", customIcon: machineLearningLogo },
         { name: "MCP Protocol", reactIcon: FaNetworkWired },
         { name: "Solace Agent Mesh", reactIcon: FaProjectDiagram },
-        { name: "Claude Code", reactIcon: FaTerminal },
         { name: "Codex & Cursor", reactIcon: FaCode },
       ]
     },
